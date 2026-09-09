@@ -27,7 +27,7 @@ A Raspberry Pi Pico W project that wakes you up with sound when it senses daylig
 ## Next iteration
 In the next iteration, I will add a battery, an on/off switch, and an initial delay, as currently it goes off right from the get-go.😅
 
-##Alternate Project Names
+### Alternate Project Names
 -Rise & Pico
 -WakeMate
 -Morning Buddy
